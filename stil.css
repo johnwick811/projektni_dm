@@ -1,0 +1,46 @@
+/* CSS Document */
+p {
+	color: green;
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 800px;
+	background-color: rgba(255, 255, 255, 0.6);
+	padding: 20px;
+}
+.paragraf_1 {color:darkcyan; background-color: antiquewhite}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding:10px;
+	margin: 17px;
+	width:20%;
+	font-family: verdana;
+	font-size: 15px;
+	line-height: 18px;
+}
+h1, h2 {
+	font-family: verdana;
+	color:midnightblue;
+}
+
+ span {color: #4A206B;}
+ .pozadina{
+	 background-image: url("slike/pozadina.jpg");
+	 background-color: lightblue;
+ }
+ .drugapozadina {
+	 background-color: darkgray;
+ }
+ a:link {
+	 color: black;
+	 background-color: White;
+	 padding: 10px;
+	 line-height: 40px;
+	 border:2px solid #000000;
+ }
+ a:hover{
+	 background-color: lightgray; 
+ }
+ img {
+	 height: 350px;
+ }
